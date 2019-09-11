@@ -9,7 +9,9 @@
   "usingComponents": {
   
     "van-button": "/static/vant/button/index",
-    "van-icon": "/static/vant/icon/index"
+    "van-icon": "/static/vant/icon/index",
+    "van-nav-bar": "/static/vant/nav-bar/index",
+    "van-tree-select":"/static/vant/tree-select/index"
   
   },
   "window": {
