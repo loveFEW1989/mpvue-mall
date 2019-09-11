@@ -29,7 +29,7 @@
 <style lang="stylus" scoped>
 .panl
   background #eeeeee
-  padding 5rpx 0 5rpx 0
+  padding 5rpx 0 25rpx 0
   ul 
     width 95%
     margin 0 auto
